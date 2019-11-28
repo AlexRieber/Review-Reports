@@ -70,7 +70,8 @@ Sie führen den Peer-Review im sogenannten Double-Blind-Verfahren durch. D.h. we
 
 # Bewertung des Review Reports
 
-```{r, eval=FALSE, warning=FALSE, message=FALSE}
+
+```r
 ---
 title: "Feedback Formular für Gruppen"
 output: github_document
